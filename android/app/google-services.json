@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "947476098163",
+    "firebase_url": "https://movie-suggestions-f1825.firebaseio.com",
+    "project_id": "movie-suggestions-f1825",
+    "storage_bucket": "movie-suggestions-f1825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947476098163:android:cfd51cd54828ed8a",
+        "android_client_info": {
+          "package_name": "com.milen.moviefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947476098163-r3mhp5um21oes59kpmivhr3ivmqp5fk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj15wcphEHj-qEdPCb1eny6BWPc_llmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,41 @@
+[debug] [2019-07-13T19:14:43.914Z] ----------------------------------------------------------------------
+[debug] [2019-07-13T19:14:43.915Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Milen\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-07-13T19:14:43.916Z] CLI Version:   7.1.0
+[debug] [2019-07-13T19:14:43.916Z] Platform:      win32
+[debug] [2019-07-13T19:14:43.916Z] Node Version:  v12.6.0
+[debug] [2019-07-13T19:14:43.916Z] Time:          Sat Jul 13 2019 21:14:43 GMT+0200 (Central European Summer Time)
+[debug] [2019-07-13T19:14:43.916Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-07-13T19:14:43.921Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-07-13T19:14:43.922Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Milen\Documents\GitHub\movie-finder
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2019-07-13T19:14:48.848Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2019-07-13T19:14:48.848Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2019-07-13T19:14:48.980Z] <<< HTTP RESPONSE 200
+[debug] [2019-07-13T19:14:48.997Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects?page_size=100  
+ 
+[debug] [2019-07-13T19:14:49.353Z] <<< HTTP RESPONSE 200
+[debug] [2019-07-17T21:40:52.182Z] Error: kill ENOSYS
+    at process.kill (internal/process/per_thread.js:189:13)
+    at process.listener (C:\Users\Milen\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\signal-exit\index.js:95:15)
+    at process.emit (events.js:203:13)
+[error] 
+[error] Error: An unexpected error has occurred.
