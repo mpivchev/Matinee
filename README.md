@@ -1,3 +1,4 @@
 # movie_suggestions
 
-A Flutter project.
+This app was made with the intent to study Flutter.
+
