@@ -2,6 +2,8 @@
 
 ## This app was made with the intent to study Flutter and Dart.
 
+BLOC was used for state management: https://github.com/felangel/bloc/
+
 ![Matinee](https://i.imgur.com/Qev7njW.png) 
 ![Matinee](https://i.imgur.com/zPnKxpq.png) 
 ![Matinee](https://i.imgur.com/hu5RSXU.png) 
