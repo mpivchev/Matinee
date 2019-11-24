@@ -1,6 +1,6 @@
 # Matinee
 
-This app was made with the intent to study Flutter and Dart.
+## This app was made with the intent to study Flutter and Dart.
 
 ![Matinee](https://i.imgur.com/Qev7njW.png) 
 ![Matinee](https://i.imgur.com/zPnKxpq.png) 
