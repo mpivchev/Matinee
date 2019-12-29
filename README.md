@@ -10,6 +10,5 @@ Issue board for this project can be found on https://trello.com/b/2o6em4if/matin
 ![Matinee](https://i.imgur.com/zPnKxpq.png) 
 ![Matinee](https://i.imgur.com/hu5RSXU.png) 
 ![Matinee](https://i.imgur.com/3FMSiyt.png) 
-![Matinee](https://i.imgur.com/pxFjt5h.png) 
 ![Matinee](https://i.imgur.com/vrAo68r.png) 
 ![Matinee](https://i.imgur.com/w4ImyVE.png) 
